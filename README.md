@@ -1,14 +1,13 @@
-[![MasterHead](https://i0.wp.com/codemyui.com/wp-content/uploads/2016/11/pixel-based-digital-display-text-animation-1.gif?fit=880%2C440&ssl=1)](https://rishavchanda.io) 
 <h1 align="center">Hi 👋, I'm Venus Yadav</h1>
-<h3 align="center">Passionate frontend developer with React Js</h3>
+<h3 align="center">Passionate Software developer with Mern Stack</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=venusyadav&label=Profile%20views&color=0e75b6&style=flat" alt="venusyadav" /> </p>
 
-- 🌱 I’m currently learning **Backend with Express.js**
+- 🌱 I’m inhancing my **Development Skill**
 
 - 👨‍💻 All of my projects are available at [https://github.com/VenusYadav](https://github.com/VenusYadav)
 
-- 💬 Ask me about **DSA, C++, OOps, React**
+- 💬 Ask me about **DSA, C++, OOps, React.js, Node.js, Express.js, Redux, Rest Api, Mongodb and Sql**
 
 - 📫 How to reach me **venusyadav572@gmail.com**
 
