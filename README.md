@@ -1,5 +1,5 @@
-<div style="display: flex; justify-content: center; align-items: center; width: 100%;">
-  <img src="https://camo.githubusercontent.com/bf2041ee6107135b50cde02454394ab9e0c9dd2ca3baffb974add6c6d4f1bb10/68747470733a2f2f6d656469612e74656e6f722e636f6d2f3874725f4355363733304d41414141432f7765622d6465762d776562736974652d646576656c6f706d656e742e676966" alt="MasterHead">
+<div style="display: flex; justify-content: center; align-items: center; width: 100;">
+  <img src="https://camo.githubusercontent.com/3167026abe932fe28cb61a7308549da706bc1a8ee81a3cc3169ea75991d2e3d5/68747470733a2f2f692e6962622e636f2f6b3234343135622f4769746875622d42616e6e65722e676966" alt="MasterHead">
 </div>
 </div>
 <h1 align="center">Hi 👋, I'm Venus Yadav</h1>
