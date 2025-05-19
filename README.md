@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/VenusYadav](https://github.com/VenusYadav)
 
-- 💬 Ask me about **DSA, C++, OOps, React.js, Node.js, Express.js, Redux, Rest Api, Mongodb and Sql**
+- 💬 Ask me about **DSA, C++, OOps, React.js, NextJs, Node.js, Express.js, Redux, Api, Mongodb, Sql and Material UI**
 
 - 📫 How to reach me **venusyadav572@gmail.com**
 
